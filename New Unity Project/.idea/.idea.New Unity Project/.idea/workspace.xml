@@ -19,7 +19,107 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="646090ac-49c8-4221-9bb7-357bff5308e0" name="Default Changelist" comment="" />
+    <list default="true" id="646090ac-49c8-4221-9bb7-357bff5308e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Bamboo diffuse.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Bamboo diffuse.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Bamboo normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Bamboo normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Cover diffuse.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Cover diffuse.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Cover normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Cover normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Palm diffuse.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Palm diffuse.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Palm normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Palm normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Pine diffuse.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Pine diffuse.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Pine normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Pine normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Pot diffuse.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Pot diffuse.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Pot normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Pot normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Shrub diffuse.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Shrub diffuse.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Shrub normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Shrub normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Spikes diffuse.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Spikes diffuse.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Spikes normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Decorative plants/Textures/Spikes normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Female_01_V01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V01/Female_01_V01.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Female_01_V02.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_01/V02/Female_01_V02.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Female_02_V01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V01/Female_02_V01.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Female_02_V02.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_02/V02/Female_02_V02.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Female_03_V01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_03/V01/Female_03_V01.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Female_04_V02.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_04/V02/Female_04_V02.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Female_05_V01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_05/V01/Female_05_V01.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Female_06_V02.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Female/Female_06/V02/Female_06_V02.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Male_01_V02.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_01/V02/Male_01_V02.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Male_02_V01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_02/V01/Male_02_V01.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Male_03_V02.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_03/V02/Male_03_V02.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Male_04_V01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_04/V01/Male_04_V01.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Male_05_V01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_05/V01/Male_05_V01.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Male_06_V01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Wolf3D/RPM Avatar Pack/Models/FBX/Male/Male_06/V01/Male_06_V01.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/02/029f0cd99c285bb5a7f336e57a4c1419" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/06/06b94b7635c649d0274d277e0043d067" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/14/14736ce1b0367d2b67e2c51017e2037e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/31/31ec8f918a68a821d7b0fe30c39fc172" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/3b/3b4f628f264a3512d4cec005c6c3d0a4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/3c/3c850a575ca014009c71c25a3f10cd9a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/3c/3ca6c3aa4705ffaae52d8531e34cd732" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/47/47ec790c5e34de207bc102176139093a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/4f/4f52ca28bf5743dbc5a0bb77829ded5d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/57/57ea7392667b195d64a23c3f5c886415" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5d/5d710cd3c6d315eec883390e2b2bc14d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5e/5efb5d41ad17f97b584fcadbc8cc388d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5e/5efde5c46ecc3a21f57a30e6fbaee4d8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/69/69705fab0350bdd7b9cb0a592d9dc024" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/69/69823c8cb40d7a2a91a7608aeb6b1332" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/6d/6decddc8046d14fe947a354aa433d315" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/75/75a0167878e0aac83a075290183088bb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/77/77e6f4ce075dd36763573b75a0f44941" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a8/a8af04010af2c9ddd49054668ba79497" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ad/ad80920f06dd910b5661e63fc546f4ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b7/b72135ddc2db8b9f3a87b215291fc5ed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c0/c0881dd9c185f8793fe02fe263a61175" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d4/d4b61eaaf270941fd7100e89db2588fa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d7/d7ad8330a4c39faafdd70179093a6b7c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/de/de1f2487a8e9c301044e76efdcccf44a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ee/ee9be80828a8738a8bae0654f6615bb7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f9/f9a929d6375996c3766d1a31d1184954" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Collab/CollabSnapshot_28e61f0a-a7a9-4d27-9677-b8aba5912ac3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Collab/CollabSnapshot_28e61f0a-a7a9-4d27-9677-b8aba5912ac3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptMapper" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptMapper" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/46b7a0-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/46b7a0-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/d69a67-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/d69a67-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe13.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe13.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe14.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe14.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe15.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe15.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe8.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe8.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +137,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/ColDec.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ATMLeave.cs" />
       </list>
     </option>
   </component>
@@ -87,6 +189,9 @@
       <option name="presentableId" value="Default" />
       <updated>1608635273260</updated>
       <workItem from="1608635277002" duration="2960000" />
+      <workItem from="1610300076167" duration="1000" />
+      <workItem from="1610303353412" duration="1746000" />
+      <workItem from="1610315636735" duration="470000" />
     </task>
     <servers />
   </component>
@@ -105,6 +210,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
