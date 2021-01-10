@@ -52,7 +52,7 @@ MonoBehaviour:
   - {fileID: 16}
   - {fileID: 12}
   m_Selected: 0
-  m_LastSelected: 1
+  m_LastSelected: 2
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,10 +141,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 677, y: 492}
-  m_MaxSize: {x: 14001, y: 14042}
+  m_MinSize: {x: 678, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 65
+  controlID: 85
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 66
+  controlID: 86
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -194,7 +194,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 67
+  controlID: 87
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -267,8 +267,8 @@ MonoBehaviour:
     y: 0
     width: 347
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -400,7 +400,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -462,7 +462,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 4e0df8ffc2e6f8ffbe14f9ff488ff9ff1296f9ff1896f9ff5296f9ff7ab4fdff3ee6fdffd2e6fdff0efbffff
+      m_ExpandedIDs: 6496feff3e97feff24c7feff26c8feffe07bffff64fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -522,9 +522,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -46.88038, y: 0.22797728, z: 10.42276}
+    m_Target: {x: -0.6530985, y: 25.319368, z: 77.01558}
     speed: 2
-    m_Value: {x: -46.88038, y: 0.22797728, z: 10.42276}
+    m_Value: {x: -0.6530985, y: 25.319368, z: 77.01558}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -570,13 +570,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.038803305, y: -0.56030643, z: 0.026157668, w: 0.8270584}
+    m_Target: {x: 0.0037059495, y: 0.8683023, z: -0.49636075, w: 0.00688511}
     speed: 2
-    m_Value: {x: 0.04000001, y: -0.56146187, z: 0.027056169, w: 0.82609236}
+    m_Value: {x: 0.003715552, y: 0.8673903, z: -0.49756715, w: 0.0068782275}
   m_Size:
-    m_Target: 8.381232
+    m_Target: 1.2552936
     speed: 2
-    m_Value: 8.381232
+    m_Value: 1.2552936
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -666,20 +666,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Animations
+    - Assets/Meshes/Decorative plants
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Animations
+  - Assets/Meshes/Decorative plants
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Andreas\vr\VR-final-project\New Unity Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 105}
-    m_SelectedIDs: 06880000
-    m_LastClickedID: 34822
-    m_ExpandedIDs: 00000000d83c0000ea3d0000023e0000103e0000483e00004c3e0000783e00007a3e00008c3e0000a43e0000ae3e000016a4000090ab00009eab0000acab0000aeab000072dc000074dc000076dc000086dd00009add0000b4dd0000c0dd0000cadd0000e2dd000000ca9a3b
+    scrollPos: {x: 0, y: 217}
+    m_SelectedIDs: 52910000
+    m_LastClickedID: 37202
+    m_ExpandedIDs: 000000002475000026750000287500002a7500002c7500002e75000030750000327500003475000036750000387500003a7500003c7500003e75000040750000427500004475000046750000487500004a7500004c7500004e75000050750000547500004c91000052910000e4ed070000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -707,7 +707,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 000000002475000026750000287500002a7500002c7500002e75000030750000327500003475000036750000387500003a7500003c7500003e75000040750000427500004475000046750000487500004a7500004c7500004e75000050750000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -852,4 +852,29 @@ MonoBehaviour:
     y: 73
     width: 351
     height: 926
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &21
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12059, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEditor:UnityEditor.PackageManager.UI:PackageManagerProjectSettings
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Failed to load
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 320
+    height: 550
   m_ViewDataDictionary: {fileID: 0}
